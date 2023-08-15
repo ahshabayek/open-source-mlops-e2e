@@ -1,0 +1,4 @@
+[core]
+    remote = opensource_mlops_remote
+['remote "opensource_mlops_remote"']
+    url = s3://opensource-mlops
